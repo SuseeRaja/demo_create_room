@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VideoChatApp</string>
+    <string name="vpm">VPM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_room">Create room</string>
+    <string name="title">Title</string>
+    <string name="des">Description</string>
+    <string name="live">Live</string>
+    <string name="enter_room">Enter the room name</string>
+    <string name="is_live">is Live</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="live_status_change">Are you sure you want to change live status?</string>
+    <string name="change">Change</string>
+    <string name="stop_live">Stop live</string>
+</resources>

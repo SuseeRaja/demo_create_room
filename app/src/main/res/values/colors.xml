@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorApp">#292929</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange">#ffc38f</color>
+    <color name="colorGray">#4e4e4e</color>
+    <color name="feed_gray">#727272</color>
+    <color name="red">#ff1918</color>
+    <color name="bottom_sheet_color">#292929</color>
+    <color name="cancel_bt_color">#ababab</color>
+</resources>
